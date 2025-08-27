@@ -16,11 +16,11 @@
       <sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://reactrouter.com/_brand/react-router-logo.png" width="40" /><br/>
+      <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/public/logo.png" width="40" /><br/>
       <sub><b>React Router</b></sub>
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" /><br/>
+      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/react-query-logo.png" width="40" /><br/>
       <sub><b>React Query</b></sub>
     </td>
     <td align="center">
@@ -37,6 +37,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
