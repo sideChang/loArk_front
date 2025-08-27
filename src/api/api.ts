@@ -21,3 +21,12 @@ export const fetchProfile = async (chName: string) => {
 
   return response.data;
 };
+
+// 아크패시브
+export const fetchArkpassive = async (chName: string) => {
+  const response = await instance.get(
+    `/armories/characters/${chName}/arkpassive`
+  );
+
+  return response.data;
+};

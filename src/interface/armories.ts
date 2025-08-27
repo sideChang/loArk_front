@@ -35,3 +35,22 @@ export interface IProfile {
     }
   ];
 }
+
+export interface IArkPassive {
+  Points: [
+    {
+      Name: string;
+      value: number;
+      tooltip: string;
+      Description: string;
+    }
+  ];
+  Effects: [
+    {
+      Name: string;
+      Description: string;
+      Icon: string;
+      Tooltip: string;
+    }
+  ];
+}
