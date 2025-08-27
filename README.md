@@ -18,5 +18,5 @@
 ## API 테스트
 1. [Lost Ark 개발자 센터](https://developer-lostark.game.onstove.com)에서 API Key 발급
 2. [Lost Ark API 시작하기](https://developer-lostark.game.onstove.com/getting-started) 이용하여 각종 API참고
-3. POSTMAN 이용하여 HTTP 메서드 GET방식으로 REQUEST, RESPONSE 테스트
+3. POSTMAN 이용하여 HTTP 메서드 GET방식을 통해 불러온 JSON data 조회 
 
