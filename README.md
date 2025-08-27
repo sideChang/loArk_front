@@ -9,36 +9,35 @@
 
 ## 🚀 사용 기술
 
-## 🌟 사용 기술 스택
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="60" /><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" /><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" width="60" /><br/>
+      <img src="https://reactrouter.com/_brand/react-router-logo.png" width="40" /><br/>
       <sub><b>React Router</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.svg" width="60" /><br/>
+      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" /><br/>
       <sub><b>React Query</b></sub>
     </td>
     <td align="center">
-      <img src="https://axios-http.com/assets/logo.svg" width="60" /><br/>
+      <img src="https://axios-http.com/assets/logo.svg" width="40" /><br/>
       <sub><b>Axios</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60" /><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="60" /><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="40" /><br/>
       <sub><b>SCSS</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 ## API 테스트
