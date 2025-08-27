@@ -9,34 +9,23 @@
 
 ## 🚀 사용 기술
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" /><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/public/logo.png" width="40" /><br/>
-      <sub><b>React Router</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/react-query-logo.png" width="40" /><br/>
-      <sub><b>React Query</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://axios-http.com/assets/logo.svg" width="40" /><br/>
-      <sub><b>Axios</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="40" /><br/>
-      <sub><b>SCSS</b></sub>
-    </td>
-  </tr>
-</table>
+- **React**  
+
+- **React Router DOM**  
+
+
+- **React Query**  
+ 
+
+- **Axios**  
+ 
+
+- **TypeScript**  
+ 
+
+- **SCSS**  
+ 
+
 
 
 
