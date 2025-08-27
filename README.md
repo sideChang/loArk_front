@@ -7,13 +7,14 @@
 - 클래스, 아이템 레벨, 길드 등 표시
 - 프론트엔드에서 실시간 조회 가능
 
-## 사용 기술
-- React
-- react router dom
-- react query
-- Axios
-- typescript
-- scss
+## 🚀 사용 기술
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ## API 테스트
 1. [Lost Ark 개발자 센터](https://developer-lostark.game.onstove.com)에서 API Key 발급
