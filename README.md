@@ -9,12 +9,37 @@
 
 ## 🚀 사용 기술
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+## 🌟 사용 기술 스택
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="60" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" width="60" /><br/>
+      <sub><b>React Router</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.svg" width="60" /><br/>
+      <sub><b>React Query</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://axios-http.com/assets/logo.svg" width="60" /><br/>
+      <sub><b>Axios</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="60" /><br/>
+      <sub><b>SCSS</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ## API 테스트
 1. [Lost Ark 개발자 센터](https://developer-lostark.game.onstove.com)에서 API Key 발급
