@@ -50,7 +50,7 @@ export interface IArkPassive {
       Name: string;
       Description: string;
       Icon: string;
-      Tooltip: string;
+      ToolTip: string;
     }
   ];
 }

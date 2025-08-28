@@ -2,7 +2,6 @@ import { useParams } from "react-router-dom";
 import { fetchArkpassive } from "../api/api";
 import { useQuery } from "react-query";
 import type { IArkPassive } from "../interface/armories";
-import React from "react";
 
 const ArkPassive = () => {
   const { chracname } = useParams() as { chracname: string };
@@ -13,20 +12,33 @@ const ArkPassive = () => {
   console.log(arkpassiveData);
 
   return (
-    <>
-      {arkPaLoading && "로딩중"}
+    <div className="ark-passive-container">
+      {arkPaLoading && <div>로딩중</div>}
       {arkpassiveData && (
-        <React.Fragment>
+        <>
           {arkpassiveData.Points.map((point, index) => (
-            <div key={index}>
-              <div>{point.Name}</div>
-              <div>{point.value}</div>
-              <div>{point.Description}</div>
+            <div key={index} className="passive-point">
+              <span>{point.Name}</span>
+              <span>{point.value}</span>
+              <span>{point.Description}</span>
             </div>
           ))}
-        </React.Fragment>
+
+          {arkpassiveData.Effects.map((effect, index) => (
+            <div key={index} className="passive-effect">
+              <img src={effect.Icon} />
+              <span>{effect.Name}</span>
+
+              <div
+                className="effect-description"
+                dangerouslySetInnerHTML={{ __html: effect.Description }}
+              />
+              <span>{effect.ToolTip}</span>
+            </div>
+          ))}
+        </>
       )}
-    </>
+    </div>
   );
 };
 
